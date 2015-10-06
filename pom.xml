@@ -42,11 +42,6 @@
 		</dependency>
 		<dependency>
 			<groupId>io.dropwizard.metrics</groupId>
-			<artifactId>metrics-jvm</artifactId>
-			<version>${dropwizard-metrics.version}</version>
-		</dependency>
-		<dependency>
-			<groupId>io.dropwizard.metrics</groupId>
 			<artifactId>metrics-graphite</artifactId>
 		</dependency>
 		<dependency>
